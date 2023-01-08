@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/materials-practice/static/css/main.7acaea2f.css",
-    "main.js": "/materials-practice/static/js/main.07d3183d.js",
+    "main.css": "/materials-practice/static/css/main.c39a2a40.css",
+    "main.js": "/materials-practice/static/js/main.e4534890.js",
     "index.html": "/materials-practice/index.html",
-    "main.7acaea2f.css.map": "/materials-practice/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/materials-practice/static/js/main.07d3183d.js.map"
+    "main.c39a2a40.css.map": "/materials-practice/static/css/main.c39a2a40.css.map",
+    "main.e4534890.js.map": "/materials-practice/static/js/main.e4534890.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.c39a2a40.css",
+    "static/js/main.e4534890.js"
   ]
 }
